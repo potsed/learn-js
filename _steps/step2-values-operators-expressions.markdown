@@ -33,7 +33,7 @@ To open your Browser's Developer Tools (Dev Tools):
 
 * Chrome & Firefox
   * Windows/Linux: `Ctrl`+`Shift`+`i`
-  * MacOS: `CMD`+`Shift`+`i`
+  * MacOS: `CMD`+`Shift`+`i` Chrome: `CMD`+`option`+`i`
 * Safari
   * MacOS: `CMD`+`option`+`i`
 * Edge
